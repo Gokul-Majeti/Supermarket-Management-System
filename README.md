@@ -29,4 +29,4 @@ Each entity consists of several attributes.
 ![ER Diagram](ER%20DIAGRAM.jpg)
 
 # Relationship Schema
-![Relational Schema](Relational%20Schema.jpg)
+![Relational Schema](Relational%20Schema.png)
