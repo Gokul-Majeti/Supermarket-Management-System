@@ -30,3 +30,5 @@ Each entity consists of several attributes.
 
 # Relationship Schema
 ![Relational Schema](Relational%20Schema.png)
+
+We welcome all contributions/Suggestions to this project. If you have any ideas, suggestions, or bug reports, please feel free to contact.
