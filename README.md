@@ -26,4 +26,5 @@ There are 9 entities in this database. They are
 Each entity consists of several attributes.
 
 # Entity Relationship diagram
-![Alt Text](ER DIAGRAM.jpg)
+![ER Diagram](ER%20DIAGRAM.jpg)
+
