@@ -1,2 +1,8 @@
-# Supermarket-Management-System
-A database-driven project designed to manage supermarket operations efficiently. It includes structured SQL tables and constraints for handling employees, suppliers, products, categories, purchase orders, billing, and payments. It serves as a complete backend model for real-world supermarket workflows.
+# Supermarket Management System
+Welcome to Supermarket Management system Project!
+
+If you like the repo do ⭐ it.
+
+# Project Overview
+
+The Supermarket Management System is designed to provide a centralized and efficient solution for managing all core supermarket operations. It streamlines tasks such as product management, inventory tracking, supplier coordination, employee records, purchase orders, customer billing, and payment processing. By leveraging a structured relational database management system, the project ensures accurate data handling, smooth workflow automation, and reliable transaction management—making supermarket administration more organized, scalable, and effortless.
