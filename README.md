@@ -13,4 +13,17 @@ The Supermarket Management System is designed to provide a centralized and effic
 
 There are 9 entities in this database. They are
 
-  . Students
+* Product
+* Category
+* Supplier
+* Customer
+* Bill
+* Bill_Item
+* Purchase_Order
+* Employee
+* Payment
+
+Each entity consists of several attributes.
+
+# Entity Relationship diagram
+![Alt Text](ER DIAGRAM.png)
