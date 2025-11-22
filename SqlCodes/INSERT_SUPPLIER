@@ -1,0 +1,13 @@
+INSERT INTO Supplier VALUES
+(1, 'Amul Dairy', '9876543210', 'rajesh@amul.com', 'Dairy Lane', 'Industrial Area', 'Near Factory', 'Anand', 'Gujarat', '388001', 'Net 30 days', 'GST123456'),
+(2, 'Britannia Foods', '9876543211', 'priya@britannia.com', 'Baker Street', 'Food Park', 'Opposite Mall', 'Mumbai', 'Maharashtra', '400001', 'Net 45 days', 'GST234567'),
+(3, 'Parle Products', '9876543212', 'amit@parle.com', 'Snack Road', 'MIDC Area', 'Behind Station', 'Mumbai', 'Maharashtra', '400002', 'Net 30 days', 'GST345678'),
+(4, 'ITC Limited', '9876543213', 'sunita@itc.com', 'Corporate Blvd', 'Business District', 'Near Airport', 'Kolkata', 'West Bengal', '700001', 'Net 60 days', 'GST456789'),
+(5, 'Nestle India', '9876543214', 'ravi@nestle.com', 'Food Plaza', 'Sector 14', 'Metro Station', 'Gurgaon', 'Haryana', '122001', 'Net 45 days', 'GST567890'),
+(6, 'Hindustan Unilever', '9876543215', 'kavita@hul.com', 'Consumer Way', 'Andheri East', 'BKC', 'Mumbai', 'Maharashtra', '400003', 'Net 30 days', 'GST678901'),
+(7, 'PepsiCo India', '9876543216', 'vikram@pepsi.com', 'Beverage Street', 'Hinjewadi', 'IT Park', 'Pune', 'Maharashtra', '411001', 'Net 30 days', 'GST789012'),
+(8, 'Coca-Cola India', '9876543217', 'neha@cocacola.com', 'Refresh Road', 'Whitefield', 'Tech Park', 'Bangalore', 'Karnataka', '560001', 'Net 45 days', 'GST890123'),
+(9, 'Mother Dairy', '9876543218', 'anil@motherdairy.com', 'Fresh Lane', 'Patparganj', 'Near Metro', 'Delhi', 'Delhi', '110001', 'Net 30 days', 'GST901234'),
+(10, 'Dabur India', '9876543219', 'meera@dabur.com', 'Health Avenue', 'Sahibabad', 'NH-24', 'Ghaziabad', 'Uttar Pradesh', '201001', 'Net 60 days', 'GST012345'),
+(11, 'Marico Limited', '9876543220', 'suresh@marico.com', 'Care Street', 'Kanjurmarg', 'Near Station', 'Mumbai', 'Maharashtra', '400004', 'Net 45 days', 'GST112233'),
+(12, 'Haldirams', '9876543221', 'pooja@haldiram.com', 'Namkeen Nagar', 'Sitabuldi', 'Central Area', 'Nagpur', 'Maharashtra', '440001', 'Net 30 days', 'GST223344');
